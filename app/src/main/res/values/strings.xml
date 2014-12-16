@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC App</string>
+    <string name="label_status">NFC Status : </string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">NFC Available</string>
+
+    <string name="intro_message"></string>
+    <string name="error">Error</string>
+    <string name="no_nfc">No NFC found on this device</string>
+    <string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>
+
+</resources>
